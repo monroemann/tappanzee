@@ -12,6 +12,12 @@ nav.navbar {
   margin-right: 5px;
 }
 
+.navbar-form {
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 5px;
+}
+
 .navbar {
   background-color: white;
  /* background:url('/images/footer_lodyas.png');*/
