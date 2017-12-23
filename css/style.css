@@ -1,4 +1,7 @@
-
+html {
+  position: relative;
+  min-height: 100%;
+}
 
 #nav-bar {
   width: 100%;
@@ -27,7 +30,7 @@ nav.navbar {
 
 .main-links {
     font-size: 25px;
-    font-weight: bold;  
+    font-weight: bold;
 }
 
 .footer {
