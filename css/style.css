@@ -1,5 +1,17 @@
 
 
+h3 {
+  font-family: 'Waiting for the Sunrise', cursive;
+}
+
+h2 {
+  font-family: 'Waiting for the Sunrise', cursive;
+}
+
+h4 {
+  font-family: 'IM Fell English SC', serif;
+}
+
 #nav-bar {
   width: 100%;
   margin: 0;
@@ -27,7 +39,8 @@ nav.navbar {
 
 .main-links {
     font-size: 25px;
-    font-weight: bold;  
+    font-weight: bold;
+    font-family: 'IM Fell English SC', serif;  
 }
 
 .footer {
